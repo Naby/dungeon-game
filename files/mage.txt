@@ -1,0 +1,4 @@
+MAXHP:15 MAXMP:12
+ATTACK-MODIFIER:3
+blaze*3,restore*4
+hpot*3,mpot*2

@@ -1,0 +1,4 @@
+MAXHP:20 MAXMP:6
+ATTACK-MODIFIER:4
+berserk*6,cleave*3
+hpot*3,mpot*2

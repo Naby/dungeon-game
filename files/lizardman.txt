@@ -1,0 +1,3 @@
+MAXHP:5
+ATTACK-POWER:1
+hpot*0.5,mpot*0.4,key*0.3
